@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # beer_tracker
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# beer_tracker
+>>>>>>> 05245b227917dded41f2e7c5106a42442adb7e41
